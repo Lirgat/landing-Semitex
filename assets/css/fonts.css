@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'FuturaLightC';
+    src: url(/assets/fonts/futuralightc.woff2);
+}
+@font-face {
+    font-family: 'FuturaFuturisC';
+    src: url(/assets/fonts/futurafuturisc-bold.woff2);
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'FuturaFuturisC';
+    src: url(/assets/fonts/futurafuturisc.woff2);
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'FuturaBookC';
+    src: url(/assets/fonts/futurabookctt_normal.woff2);
+}
+@font-face {
+    font-family: 'FuturaDemiC';
+    src: url(/assets/fonts/futurademic.woff2);
+}
